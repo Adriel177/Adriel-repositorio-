@@ -211,7 +211,7 @@
           data-bs-parent="#accordionMention">
           <div class="accordion-body">
             <p>
-              O site e o nome de domínio<b>Samuel.ziger</b> São propriedade de:
+              O site e o nome de domínio<b>Adriel</b> São propriedade de:
               <br /><br />
               Sr
               <img
@@ -228,14 +228,14 @@
                 Ver informação</button
               ><br />
               <span>
-                O site <b>Samuel.ziger</b> é otimizado para navegadores de
+                O site <b>Adriel</b> é otimizado para navegadores de
                 desktop e dispositivos móveis de última geração (Firefox, Edge,
                 Chrome, Safari, Opera). O site é hospedado pela empresa
                 <b>Vercel</b>.
               </span>
               <br /><br />
               <span>
-                Este site constitui uma obra da qual <b>Sr Samuel.ziger</b> é
+                Este site constitui uma obra da qual <b>Sr Adriel</b> é
                 autor do Código de Propriedade Intelectual. Todo o código-fonte
                 do site está disponível sob a <b>Licença do MIT</b> na
                 plataforma Github, exceto as imagens do site. As fotografias,

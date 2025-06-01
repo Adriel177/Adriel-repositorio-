@@ -40,7 +40,7 @@
         ><i class="bi bi-moon-fill"></i
       ></label>
     </div>
-    <p class="brand">Samuel.ziger</p>
+    <p class="brand">Adriel</p>
   </nav>
 </template>
 

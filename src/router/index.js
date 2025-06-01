@@ -7,7 +7,7 @@ const routes = [
     path: '/',
     name: 'Home',
     meta: {
-      title: 'Meu portfolio | Samuel.ziger',
+      title: 'Meu portfolio | Adriel',
       description: 'Meu portifolio com meus projetos e experiências profissionais na área de desenvolvimento web, design e programação.',
     },
     component: () => import('../views/Home.vue'),
@@ -16,7 +16,7 @@ const routes = [
     path: '/curriculum',
     name: 'Curriculum',
     meta: {
-      title: 'Meu currículo | Samuel.ziger',
+      title: 'Meu currículo | Adriel',
       description: 'Um resumo da minha trajetória profissional, com experiências e habilidades adquiridas ao longo do tempo.',
     },
     component: () => import('../views/Curriculum.vue'),
@@ -25,7 +25,7 @@ const routes = [
     path: '/open-source',
     name: 'Source',
     meta: {
-      title: 'Meus projetos open source | Samuel.ziger',
+      title: 'Meus projetos open source | Adriel',
       description: 'Projetos open source que desenvolvi e compartilhei com a comunidade, contribuindo para o avanço do conhecimento e da tecnologia.',
     },
     component: () => import('../views/Source.vue'),
@@ -34,7 +34,7 @@ const routes = [
     path: '/contact',
     name: 'Contact',
     meta: {
-      title: 'Suas dúvidas | Samuel.ziger',
+      title: 'Suas dúvidas | Adriel',
       description: 'Entre em contato comigo para tirar suas dúvidas ou discutir sobre projetos e oportunidades de colaboração.',
     },
     component: () => import('../views/Contact.vue'),
@@ -43,8 +43,8 @@ const routes = [
     path: '/:pathMatch(.*)*',
     name: 'NotFound',
     meta: {
-      title: 'Página não encontrada| Samuel.ziger',
-      description: 'Essa página não existe | Samuel.ziger',
+      title: 'Página não encontrada| Adriel',
+      description: 'Essa página não existe | Adriel',
     },
     component: () => import('../views/NotFound.vue'),
   },
